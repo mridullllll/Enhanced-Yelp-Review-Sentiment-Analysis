@@ -15,7 +15,7 @@ This project focuses on analyzing Yelp reviews using the Yelp Fusion API, HTML p
 
 3. **Modeling**
    - Applying Natural Language Processing (NLP) techniques for sentiment analysis.
-   - Using models like Logistic Regression, Random Forest, and Support Vector Machines (SVM) to classify the sentiments.
+   - Using models like Naive Bayes to classify the sentiments.
 
 4. **Results**
    - Evaluating model performance using accuracy, precision, recall, and F1-score.
