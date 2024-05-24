@@ -1,4 +1,4 @@
-# Enhanced-Yelp-Review-Sentiment-Analysis
+# Enhanced-Yelp-Review-Analysis-Using-Yelp-API
 Data Collection and Preprocessing using Yelp API
 
 This project focuses on analyzing Yelp reviews using the Yelp Fusion API, HTML parsing, and web crawling techniques. The goal is to extract and analyze reviews to perform sentiment analysis and gain insights into customer opinions.
